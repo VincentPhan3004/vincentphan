@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelop
   icon_pack: fas
-  link: 'mailto:vincentphan3004@gmail.com'  # For a direct email link, use "mailto:vincentphan3004@gmail.com".
+  link: "mailto:vincentphan3004@gmail.com" 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
