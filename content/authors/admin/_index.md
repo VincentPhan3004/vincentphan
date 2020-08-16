@@ -50,10 +50,7 @@ social:
   link: mailto:vincentphan3004@gmail.com 
 - icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/vincentphan1204/
 - icon: github
   icon_pack: fas
   link: https://github.com/vincentphan3004
