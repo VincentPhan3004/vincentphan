@@ -29,16 +29,16 @@ education:
   courses:
   - course: Master in Data Science
     institution: The University of British Columbia, British Columbia, Canada
-    year: []
+    year: 
   - course: Master in Econometrics, Operations Research and Actuarial Studies (Huygens Scholarship)  
     institution: University of Groningen, Netherlands
-    year: []
+    year: 
   - course: Association of the Society of Actuaries Certificate
     institution: The Society of Actuaries
-    year: []
+    year: 
   - course: Bacherlor in Mathematics and Computer Sciences
     institution: The University of Sciences, Vietnam
-    year: []
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
