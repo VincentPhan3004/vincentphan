@@ -14,7 +14,7 @@ role: Actuarial Financial Analyst and Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: []
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,9 +45,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: envelop
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:vincentphan3004@gmail.com'  # For a direct email link, use "mailto:vincentphan3004@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
