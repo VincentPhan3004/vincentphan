@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include Financial modelling and Analyst, System Recommendation and Digital Marketing.
 interests:
 - Financial Analyst and Modelling
 - Machine Learning Application
@@ -61,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "vincentphan3004@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vincent Phan has more than 6 year experience in Actuarial Financial Analyst and he is a the Association of the Society of Actuaries, USA. As a team lead, he and his team involved in numerous financial projects related to Insurance product Development, Financial Validation and KPI mornitoring for Sale Channel, Financial DataBase Management, M&A Due Diligence. With a strong communication skill and problem solving techniques, he is capable of working independently or a team. In 2019, he decided to follow the Master's Degree in Data Science to gain more skillsets which will enhance the role of an actuary in a wider range of industries, intead of only Insurance.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
