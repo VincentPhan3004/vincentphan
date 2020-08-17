@@ -33,7 +33,7 @@ education:
     institution: University of Groningen, Netherlands
     year: 
   - course: Association of the Society of Actuaries Certificate
-    institution: The Society of Actuaries
+    institution: The Society of Actuaries, USA.
     year: 
   - course: Bacherlor in Mathematics and Computer Sciences
     institution: The University of Sciences, Vietnam
