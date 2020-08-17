@@ -14,7 +14,8 @@ author = "admin"
 
 [background]
   # Background image.
-  image = "background.jpg"  # Name of image in `static/img/`.
+  image = "background.jpg"  # Name of image in `static/img/`
+  image_position = "center" 
 
 
 +++
