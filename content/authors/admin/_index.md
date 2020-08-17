@@ -69,6 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Vincent Phan has more than 6 year experience in Actuarial Financial Analyst and he is a the Association of the Society of Actuaries, USA. As a team lead, he and his team involved in numerous financial projects related to Insurance product Development, Financial Validation and KPI mornitoring for Sale Channel, Financial DataBase Management, M&A Due Diligence and other adhoc projects upon the requirement of the board of management. With a strong communication skill and problem solving techniques, he is capable of working independently or a team. In 2019, he decided to follow the Master's Degree in Data Science to gain more skillsets which will enhance the role of an actuary in a wider range of industries, intead of only Insurance.
-
+I have more than six-year experience in Actuarial Financial Analyst and attain an Association of the Society of Actuaries designation, which demonstrates knowledge of the fundamental concepts and techniques for modelling and managing risk across many industries, including Insurance, banking, predictive analytics, consulting and more. Together with my teammates, I successfully manage numerous financial projects related to Insurance product Development, Financial Validation and KPI monitoring for Sale Channel, Financial DataBase Management, M&A Due Diligence and other Ad-hoc projects upon the requirement of the board of management. In 2019, I decided to follow the Master's Degree in Data Science to gain more skillsets and find opportunities to apply my knowledge in a broader range of industries.
 
