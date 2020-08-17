@@ -13,7 +13,6 @@ title = "Biography"
 author = "admin"
 
 [background]
-   
   # Background image.
   image = "background.jpg"  # Name of image in `static/img/`.
 
