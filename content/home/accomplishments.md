@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2007-09-01"
-  date_end = ""
+  date_end = "2008-09-01"
   description = "The program is administered by HSP NUFFIC – the Netherlands Organization for International Cooperation in Higher Education. Students who have already enrolled in one of the Dutch universities at the time of application can apply for the scholarship."
 
 +++
